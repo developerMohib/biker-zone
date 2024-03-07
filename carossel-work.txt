@@ -1,0 +1,3 @@
+	
+	=> Carrosel Work Perfectly
+	1. Carrosell From DaisyUI
